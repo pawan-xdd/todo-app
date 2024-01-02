@@ -1,0 +1,6 @@
+add a new player
+buy groceries
+fix the machine
+make soup
+make pizza
+clean the code
