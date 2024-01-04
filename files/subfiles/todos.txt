@@ -4,3 +4,4 @@ fix the machine
 make soup
 make pizza
 clean the code
+Master Python!
