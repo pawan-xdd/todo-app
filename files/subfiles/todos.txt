@@ -7,3 +7,4 @@ Clean the bag
 My newest todo is added
 last todo
 Lastly
+Improve the app
